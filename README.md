@@ -22,3 +22,9 @@ Rather than treating errors as individual failures, the model examines how docum
 
 This project is in active development.  
 Initial modeling and simulation scaffolding are underway.
+
+## What is an SOP?
+
+In regulated laboratory environments, Standard Operating Procedures (SOPs) define approved workflows, testing steps, and documentation requirements intended to ensure consistency and compliance.
+
+In practice, however, SOPs often specify *what must be done* without fully resolving *how ambiguous or exceptional situations should be judged*. As a result, practitioners are frequently required to interpret procedures and make judgment calls that are not explicitly addressed in written guidance.
